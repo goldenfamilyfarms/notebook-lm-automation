@@ -1,0 +1,27 @@
+# PDFs / book content
+packt-books/
+
+# Output / debug dumps
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Chrome profile (contains auth cookies — never commit)
+.notebooklm-automation/
+
+# Env / secrets
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
